@@ -43,13 +43,13 @@ def logo():
    / __ \__  __/ ___// /_  ___  / / /
   / /_/ / / / /\__ \/ __ \/ _ \/ / / 
  / ____/ /_/ /___/ / / / /  __/ / /  
-/_/    \__, //____/_/ /_/\___/_/_/   
+/_/    \__, //____/_/ /_/\___/_/_/   ...
       /____/'''
   print(lo)
   print("""
 \t %s[!] Beta [!] %s
-\t [*] Versions : 1.0.4
-\t [*] Coded By : Khaled Nassar @knassar702\n""") % (taf,END)
+\t [*] Versions : 2.0.4
+\t [*] Coded By : fr13nds @Nobelkafdav\n""") % (taf,END)
 def help():
  slowprint2("""
   Commands :
